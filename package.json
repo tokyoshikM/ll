@@ -1,0 +1,1 @@
+{"name":"authorlab-ml","version":"1.0.0","private":true,"type":"module","scripts":{"check":"node --check app.js && node --check model/predict.js"}}
